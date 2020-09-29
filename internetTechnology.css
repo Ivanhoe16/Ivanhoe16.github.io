@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+section{
+	left: 20px;
+	top: 20px;
+	position: absolute;
+	display: inline-block;
+	border: solid 2px blue;
+	background-color: rgba(255,255,255,0.8);
+	padding-left: 15px;
+	padding-right: 15px;
+}
+h2{
+	align: center;
+}
+.body{
+	background: url("main.jpg") repeat;
+	background-size: cover;
+	width: 100%;
+}
+#rep1{
+	left: 20px;
+	padding: 0;
+	top: 31%;
+	width: 48%;
+	height: 90%;
+}
+#rep2{
+	left: 50%;
+	padding: 0;
+	top: 31%;
+	width: 48%;
+	height: 90%;
+}
+#rep3{
+	left: 20px;
+	padding: 0;
+	top: 123%;
+	width: 48%;
+	height: 90%;
+}
